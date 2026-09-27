@@ -1,5 +1,0 @@
-.modalFooter {
-  composes: modalFooter from 'Components/Modal/ModalFooter.module.css';
-
-  justify-content: space-between;
-}

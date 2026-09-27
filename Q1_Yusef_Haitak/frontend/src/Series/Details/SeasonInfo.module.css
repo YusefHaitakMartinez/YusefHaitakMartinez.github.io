@@ -1,9 +1,0 @@
-.title {
-  composes: title from 'Components/DescriptionList/DescriptionListItemTitle.module.css';
-
-  width: 90px;
-}
-
-.description {
-  margin-left: 110px;
-}
